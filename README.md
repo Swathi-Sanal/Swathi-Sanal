@@ -12,6 +12,7 @@
 ![C++](https://img.shields.io/badge/C++-0d0221?style=for-the-badge&logo=cplusplus&logoColor=6c8cff)
 ![HTML](https://img.shields.io/badge/HTML-0d0221?style=for-the-badge&logo=html5&logoColor=b38cff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0221?style=for-the-badge&logo=javascript&logoColor=6c8cff)
+![MySQL](https://img.shields.io/badge/MySQL-0d0221?style=for-the-badge&logo=mysql&logoColor=b38cff)
 ![Git](https://img.shields.io/badge/Git-0d0221?style=for-the-badge&logo=git&logoColor=b38cff)
 ![AI/ML](https://img.shields.io/badge/AI%20%2F%20Data%20Science-0d0221?style=for-the-badge&logo=tensorflow&logoColor=6c8cff)
 
@@ -19,7 +20,6 @@
 
 ---
 
-<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🧬 About Me
 
@@ -32,11 +32,10 @@
 
 > *Building things, breaking things, and learning something new every day.*
 
-<br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Languages
 
 **Languages**
 
@@ -47,7 +46,7 @@
 **Tools & Platforms**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql&theme=dark"/>
 </p>
 
 *Always exploring, always learning.* ✨
