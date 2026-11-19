@@ -74,8 +74,8 @@ print(me.current_mission())
 
 <div align="center">
 
-### ✨ Thank You for stopping by!
-*The journey is just getting started.* 💜
+### ✨ Thank You for stopping by! ✨
+💜 *The journey is just getting started.* 💜
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3b1fa3,100:7b2ff7&height=120&section=footer" width="100%" alt="footer"/>
 
