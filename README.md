@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3b1fa3,100:7b2ff7&height=230&section=header&text=Swathi%20Sanal&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20and%20Data%20Science%20Student&descAlignY=60&descSize=20" width="100%" alt="Swathi Sanal banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,45:3b1fa3,100:7b2ff7&height=230&section=header&text=SWATHI%20SANAL&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Artificial%20Intelligence%20and%20Data%20Science%20Student&descAlignY=60&descSize=20" width="100%" alt="Swathi Sanal banner"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B38CFF&center=true&vCenter=true&width=640&lines=Hello%2C+World!+%F0%9F%91%BE;B.Tech+AI+and+Data+Science+%F0%9F%A7%A0;Learning+%E2%80%A2+Building+%E2%80%A2+Experimenting+%E2%9A%A1;Turning+ideas+into+code+%F0%9F%9A%80" alt="Typing SVG" />
