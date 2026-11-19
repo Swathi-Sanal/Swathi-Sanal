@@ -24,7 +24,7 @@
 ## 🧬 About Me
 
 - 🎓 First-year **B.Tech (AI & Data Science)** student
-- 💻 Leveling up in **Python**, **C++**, **HTML/CSS**, **JavaScript**, and more!
+- 💻 Leveling up in **Python**, **C++**, and **MySQL**.
 - 🌐 Exploring **HTML, CSS and JavaScript** for web development
 - 🧩 Solving problems, one algorithm at a time
 - 🏆 Hackathon participant who loves turning ideas into working prototypes
